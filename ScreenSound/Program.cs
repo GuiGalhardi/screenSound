@@ -59,7 +59,7 @@ void ExibirOpcoesDoMenu()
             ExibirDetalhes();
             break;
         case -1:
-            Console.WriteLine("Tchau tchau :)");
+            Console.WriteLine("Encerrando aplicação:)");
             break;
         default:
             Console.WriteLine("Opção inválida");
